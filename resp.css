@@ -1,0 +1,28 @@
+.navbar{
+	background-color: #0A101E;
+}
+.container-fluid {
+
+border-bottom: 1px solid white;
+}
+.navbar-inverse .navbar-brand{
+}
+
+.navbar-nav li{
+
+}
+.navbar-header img{
+	position: absolute;
+	top: 0;
+	left:0;
+	border: 1px solid #0A101E;
+	border-radius: 100px;
+}
+.navbar-header img:hover{
+	background-image: url("/home/lenovo-4/Desktop/icon1.gif");
+	height: 50px;
+	width: 50px;
+	transition: 0.3s;
+	position: absolute;
+	opacity: 0;
+}
